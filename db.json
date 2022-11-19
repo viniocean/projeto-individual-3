@@ -1,0 +1,32 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "nome": "Adão Negro",
+            "direção": "Jaume Collet-Serra",
+            "ano": 2022,
+            "categoria_id": 1
+        },
+        {
+            "id": 2,
+            "nome": "Pantera Negra: Wakanda Para Sempre",
+            "direção": "Ryan Coogler",
+            "ano": 2022,
+            "categoria_id": 1
+        },
+        {
+            "id": 3,
+            "nome": "A Mulher Rei",
+            "direção": "Gina Prince-Bythewood",
+            "ano": 2022,
+            "categoria_id": 1
+        },
+        {
+            "id": 4,
+            "nome": "One Piece Film - Red",
+            "direção": "Goro Taniguchi",
+            "ano": 2022,
+            "categoria_id": 1
+        }
+    ]
+}
