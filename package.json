@@ -1,9 +1,8 @@
 {
-  "name": "projetoindividual3",
+  "name": "projeto-individual-3",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/viniocean/projeto-individual-3",
-  "license": "MIT",
-  "type": "module",
-  "author": "Vinicius <vinicius.pereira2018@outlook.com.br>"
+  "repository": "https://github.com/viniocean/projeto-individual-3.git",
+  "author": "Vinicius <vinicius.pereira2018@outlook.com.br>",
+  "license": "MIT"
 }

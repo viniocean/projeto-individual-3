@@ -8,5 +8,6 @@ const port = process.env.PORT || 8080;
 server.use(middlewares);
 server.use(router);
 server.listen(port, () => {
+    //eslint-desable-next line no console
     console.log(`JSON Server está funcionando na porta ${port}`);
 });
